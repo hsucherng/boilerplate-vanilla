@@ -2,6 +2,10 @@
 
 Good ol' vanilla HTML, CSS and JS.
 
-Remember to change the `Website Title` inside the `<title>` tag within `index.html`, as well as `[Website Title]` inside `style.css`.
+To "set it up":
 
-All plugins and libraries should have their minified scripts appended into `externals.min.js` in order to keep the number of requests down to a minimum.
+1. Make a copy of the `dev` folder and paste it wherever you want your development files to be.
+2. Check the following files:
+    - `index.html` - search for `Website Name` and change it to the name of the website that you are developing.
+    - `style.css` - at the top of the file, change `Website Name` to the name of the website that you are developing.
+3. That's it! You are now ready to proceed with building your website.
